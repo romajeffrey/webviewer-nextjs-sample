@@ -79,7 +79,7 @@ export default function HomePage() {
     });
   }, []);
 
-  // console.log("process");
+  console.log("process");
 
   return (
     <div className="MyComponent">
